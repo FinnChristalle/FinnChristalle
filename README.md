@@ -15,7 +15,7 @@ I'm currently diving deep into **C#** and building modern web apps with **React 
 
 ## 📈 GitHub Stats
 
-![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=tokyonight)
+![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=FinnChristalle&show_icons=true&theme=tokyonight)
 
 ---
 
