@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Finn 👋
 
-<!--
-**FinnChristalle/FinnChristalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm currently diving deep into **C#** and building modern web apps with **React + TypeScript**. I enjoy turning complex problems into clean, efficient solutions and constantly learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=tokyonight)
+
+---
+
+🔗 Feel free to explore my repos and reach out if you want to collaborate or chat about tech!
