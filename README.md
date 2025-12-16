@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm currently diving deep into **C#** and building modern web apps with **React + TypeScript**. I enjoy turning complex problems into clean, efficient solutions and constantly learning new technologies.
+I'm currently diving deep into **C# / .Net** and building modern web apps with **Angular + TypeScript**. I enjoy learning new Technologies and challenges.
 
 ## 🛠️ Tech Stack & Tools
 
