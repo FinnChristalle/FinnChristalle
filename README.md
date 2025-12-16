@@ -13,10 +13,8 @@ I'm currently diving deep into **C# / .Net** and building modern web apps with *
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
 
-![Finn's GitHub stats](https://github-readme-stats.vercel.app/api?username=FinnChristalle&show_icons=true&theme=tokyonight)
 
 ---
 
-🔗 Feel free to explore my repos and reach out if you want to collaborate or chat about tech!
+🔗 Feel free to explore my projects and reach out if you want to collaborate!
