@@ -1,8 +1,4 @@
-# Hey, I'm Finn 👋
 
-Welcome to my GitHub profile!
-
-I'm currently diving deep into **C# / .Net** and building modern web apps with **Angular + TypeScript**. I enjoy learning new Technologies and challenges.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -15,6 +11,3 @@ I'm currently diving deep into **C# / .Net** and building modern web apps with *
 
 
 
----
-
-🔗 Feel free to explore my projects and reach out if you want to collaborate!
